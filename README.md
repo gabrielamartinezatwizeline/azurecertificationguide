@@ -10,7 +10,7 @@ More information about this certification [here](https://www.microsoft.com/en-us
 
 
 ## Resources 
-- [Github repositories](https://github.com/Azure-Samples) 
+- [Github repository of Azure code samples](https://github.com/Azure-Samples) 
 - [Azure Code Samples](https://azure.microsoft.com/en-us/resources/samples/?sort=0)  
 - [Official Azure Documentation](https://docs.microsoft.com/en-us/azure/)
 - [Azure Citadel - Labs and Workshops](https://azurecitadel.github.io/labs/)
@@ -19,6 +19,7 @@ More information about this certification [here](https://www.microsoft.com/en-us
 - [Official Microsoft Developer YouTube Channel](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
 - [Azure REST API Browser](https://docs.microsoft.com/en-us/rest/api/?view=Azure)
 - [Azure DevCollective](https://developer.microsoft.com/en-us/collective/learning/courses)
+- [Repository with tons of azure resources](https://github.com/kristofferandreasen/developing-solutions-azure-exam) (via @rafasalazar)
 
 
 ## Recommended books
