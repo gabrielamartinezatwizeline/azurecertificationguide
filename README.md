@@ -9,6 +9,38 @@ More information about this certification [here](https://www.microsoft.com/en-us
 - [Free tier Azure membership account](https://azure.microsoft.com/en-us/free/)
 
 
+## Learning path 
+
+- IaaS - Virtual Machines
+- Hands on Virtual Machines exercises
+- IaaS -  Batch Services
+- Hands on Batch Services exercises
+- IaaS - Azure Kubernetes Service
+- Hands on Kubernetes Services exercises
+- PaaS - Azure App Service 
+- Azure App Service mobile apps
+- Azure App Service API apps
+- Azure App Service web apps
+- Azure Functions
+- Hands on Azure App Services exercises
+- Azure Storage service
+- Storage tables, hands on
+- Cosmos DB Storage, hands on
+- Relational databases, hands on
+- Blob storage, hands on
+- Azure Security
+- Implement authentication
+- Implement access control
+- Implement secure data solutions
+- Monitor, Troubleshoot, and Optimize Azure Solutions
+- Develop code for scalability, caching integration, monitoring and logging
+- Connect to and Consume Azure Services and 3rd party services
+- App Service logic app
+- Integrate Azure Search within solutions
+- Establish API Gateways, develop event-based solutions, message-based solutions
+
+
+
 ## Resources 
 - [Github repository of Azure code samples](https://github.com/Azure-Samples) 
 - [Azure Code Samples](https://azure.microsoft.com/en-us/resources/samples/?sort=0)  
