@@ -52,6 +52,7 @@ More information about this certification [here](https://www.microsoft.com/en-us
 - [Azure REST API Browser](https://docs.microsoft.com/en-us/rest/api/?view=Azure)
 - [Azure DevCollective](https://developer.microsoft.com/en-us/collective/learning/courses)
 - [Repository with tons of azure resources](https://github.com/kristofferandreasen/developing-solutions-azure-exam) (via @rafasalazar)
+- [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
 
 ## Recommended books
